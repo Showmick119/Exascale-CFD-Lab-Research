@@ -1,5 +1,4 @@
 # CMake configuration file for matrix_multip_kokkos
-
 cmake_minimum_required(VERSION 3.10)
 project(matrix_multip_kokkos LANGUAGES CXX CUDA)
 
