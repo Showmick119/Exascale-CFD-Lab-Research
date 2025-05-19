@@ -1,3 +1,6 @@
+import torch
+import torch.nn as nn
+
 class SuperResolutionCNN(nn.Module):
     def __init__(self, in_channels=3, num_features=64):
         super(SuperResolutionCNN, self).__init__()
