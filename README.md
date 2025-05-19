@@ -21,5 +21,5 @@
 - Fourier Neural Operator For Parametric Partial Differential Equations
 
 ### Tasks Completed So Far:
-- Completed Standard C++ Implementation of Matrix Operations and Ported them to Kokkos.
-- Read research papers and built intuition for how these CFD solvers work on deeper level, and how GPUs are leveraged and parallelized through usage of tools like Kokkos.
+- Completed Standard C++ implementation of matrix operations and ported them to Kokkos.
+- Read research papers and built intuition for how these CFD solvers work on deeper level, and how GPUs are leveraged and parallelized using tools like Kokkos.
