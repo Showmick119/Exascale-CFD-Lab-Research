@@ -1,3 +1,6 @@
+import torch
+import torch.nn as nn
+
 class DeepONet(nn.Module):
     def __init__(self, branch_input_dim, trunk_input_dim,
                  branch_hidden, trunk_hidden, num_layers):
