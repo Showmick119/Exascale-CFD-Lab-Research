@@ -3,6 +3,7 @@
 ### Long-Term Goals:
 - Low-latency **real-time inference** of flow fields in High Resolution CFD.
 - **Accelerate** existing numerical solvers.
+- Submit our work to HPC & Machine Learning conferences.
 
 ### Potential Approaches:
 - Replacing the Runge-Kutta solver at some time-steps with a NN that predicts future flow states based on current state.
