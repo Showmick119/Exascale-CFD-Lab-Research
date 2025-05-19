@@ -1,6 +1,6 @@
 # Exascale Computational Fluid Dynamics Lab - Research Contributions
 
-### Goals:
+### Long-Term Goals:
 - Low-latency **real-time inference** of flow fields in High Resolution CFD.
 - **Accelerate** existing numerical solvers.
 
@@ -21,5 +21,5 @@
 - Fourier Neural Operator For Parametric Partial Differential Equations
 
 ### Tasks Completed So Far:
-- Completed Standard C++ implementation of matrix operations and ported them to Kokkos.
+- Completed Standard C++ implementation of matrix operations and ported them to Kokkos for GPU acceleration.
 - Read research papers and built intuition for how these CFD solvers work on deeper level, and how GPUs are leveraged and parallelized using tools like Kokkos.
