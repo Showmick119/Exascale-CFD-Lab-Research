@@ -20,6 +20,6 @@
 - CNN-Based Super Resolution
 - Fourier Neural Operator For Parametric Partial Differential Equations
 
-### Task Completed So Far:
+### Tasks Completed So Far:
 - Completed Standard C++ Implementation of Matrix Operations and Ported them to Kokkos.
 - Read research papers and built intuition for how these CFD solvers work on deeper level, and how GPUs are leveraged and parallelized through usage of tools like Kokkos.
