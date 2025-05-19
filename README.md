@@ -1,7 +1,7 @@
 # Exascale Computational Fluid Dynamics Lab Research
 
 ### Goals:
-- Low-latency **real-time inference**(non-invasive, in-the-loop) of flow fields in High Resolution CFD.
+- Low-latency **real-time inference** of flow fields in High Resolution CFD.
 - **Accelerate** existing numerical solvers.
 
 ### Potential Approaches:
